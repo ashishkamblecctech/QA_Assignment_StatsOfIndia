@@ -20,7 +20,7 @@ The testing focuses on various aspects of the Point3D class, including:
 
 The test cases are implemented using Google Test framework and are located in the following files:
 
-1. **Point3DTest.cpp**: Contains test cases for the Point3D class.
+1. **test.cpp**: Contains test cases for the Point3D class.
 
 ### Source Files
 
