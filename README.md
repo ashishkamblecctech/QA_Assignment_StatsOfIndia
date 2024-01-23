@@ -36,7 +36,7 @@ The test cases are implemented using Google Test framework and are located in th
 Follow these steps to integrate the testing tool and run the test cases:
 
 1. **Install Google Test**:
-   - Make sure you have Google Test installed in your development environment. You can follow the instructions on the [Google Test GitHub repository](https://github.com/google/googletest) for installation.
+   - Make sure you have Google Test installed in your development environment.
 
 2. **Configure Project**:
    - Include the necessary headers in your project. In this case, make sure to include the `gtest/gtest.h` header.
